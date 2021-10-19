@@ -1,16 +1,14 @@
-### Hi there 👋
+#  Привет, я @Lato.
 
-<!--
-**Latose/Latose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я увлекаюсь разработкой на Java. 
 
-Here are some ideas to get you started:
+## Мои знания
+- Знаю Java.
+- Знаю C++.
+- Физика
+- Математика.
+- Дизайн.
+- Гейм-дизайн.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Как со мной связаться
+- Discord: Lato#3510
