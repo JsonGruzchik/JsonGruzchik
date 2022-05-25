@@ -1,5 +1,7 @@
 #  Привет, я @Lato.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latose)](https://github.com/latose/github-readme-stats)
+
 Я увлекаюсь разработкой на Java и на С++.
 
 ## Мои знания
@@ -16,4 +18,4 @@
  [![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latose)](https://github.com/latose/github-readme-stats)
+
