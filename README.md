@@ -1,7 +1,6 @@
 #  Привет, я @Lato.
 
 Я увлекаюсь разработкой на Java и на С++.
-[![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
 
 ## Мои знания
 - Знаю Java, С++ и C#.
@@ -12,4 +11,7 @@
 
 ## Как со мной связаться
 - Discord: Lato#3510
+
+## Я на разных сайтах: 
+- [![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
 
