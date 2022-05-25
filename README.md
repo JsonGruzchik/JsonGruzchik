@@ -12,6 +12,6 @@
 ## Как со мной связаться
 - Discord: Lato#3510
 
-## CodeWars: 
+## Я на CodeWars 
  [![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
 
