@@ -1,8 +1,9 @@
 #  Привет, я @Lato.
 
+Я увлекаюсь разработкой на Java и на С++.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latose)](https://github.com/latose/github-readme-stats)
 
-Я увлекаюсь разработкой на Java и на С++.
 
 ## Мои знания
 - Знаю Java, С++ и C#.
