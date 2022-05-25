@@ -16,3 +16,5 @@
  [![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
  
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
