@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latose&layout=compact)](https://github.com/latose/github-readme-stats)
 
 ## Как со мной связаться
-- Discord: Lato#3510
+- Discord: Lato#3908
 
 ## Я на CodeWars 
  [![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
