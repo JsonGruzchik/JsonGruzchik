@@ -9,8 +9,5 @@
 ## Как со мной связаться
 - Discord: Lato#3908
 
-## Я на CodeWars 
- [![codewars](https://www.codewars.com/users/DOBRATA/badges/large)](https://www.codewars.com/users/DOBRATA)   
- 
 
 
