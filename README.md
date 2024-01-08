@@ -1,4 +1,4 @@
-# latoses 
+# JsonGruzchik
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Создатель+говорящего+робота+альфа)](https://git.io/typing-svg).
 
